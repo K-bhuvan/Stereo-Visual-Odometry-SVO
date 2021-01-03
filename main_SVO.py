@@ -1,3 +1,9 @@
+#Author Bhuvan Tej Kanigiri
+#Guide: Dr. William Hoff
+#Independent Study - CSCI799
+# Colorado school of mines
+
+
 import cv2
 import numpy as np
 import glob
